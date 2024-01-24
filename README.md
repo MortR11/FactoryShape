@@ -16,11 +16,10 @@ This is assignment that shows the use of abstract classes and inheritance to mod
 
 To run the program, compile the Java files and execute the Main class.
 
-##Example
 javac Main.java CShape.java COval.java CCircle.java CRectangle.java CSquare.java CCanvas.java
 java Main
 
-Example Output
+#Here's an example Output this code gives
 Canvas has the following random shapes:
 Shape 1: SQUARE 75x75
 Shape 2: SQUARE 45x45
